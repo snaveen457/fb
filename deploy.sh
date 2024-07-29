@@ -1,2 +1,1 @@
-deployment scripasdfghjkl
-dnm,t
+deployment script
